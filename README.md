@@ -7,7 +7,7 @@ To use this project, follow the steps below:
 1. Clone the repository:
 
 ```
-git clone https://github.com/<USERNAME>/AI-Virtual-Mouse.git
+git clone https://github.com/<USERNAME>/Virtual-Mouse.git
 ```
 
 2. Install the required dependencies using 'pip':
@@ -19,5 +19,5 @@ pip install -r requirements.txt
 3. Run the main script:
 
 ```
-aivirtualmouseproject.py
+virtual_mouse.py
 ```
